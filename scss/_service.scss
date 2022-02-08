@@ -1,0 +1,41 @@
+.main{
+	background: #E5E3E9;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.sidebar{
+	padding: 0;
+	margin: 0;
+	background: #fff;
+	border-radius: 20px;
+	height: 100%;
+	ul{
+		list-style-type: none;
+		text-align: center;
+		padding: 0;
+		margin: 0;
+		li{
+			cursor: pointer;
+			font-size: 18px;
+			padding: 10px;
+			text-align: center;
+				&:hover{
+				width: 100%;
+				background: $malina;
+				color: #fff;
+				border-radius: 20px;
+				}
+			}
+		}
+	}
+.kinds_item{
+	text-transform: lowercase;
+}
+#content{
+	padding: 0;
+	margin: 0;
+	background: #fff;
+	border-radius: 20px;
+	margin-left: 12px;
+}

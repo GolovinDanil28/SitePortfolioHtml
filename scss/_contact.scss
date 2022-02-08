@@ -1,0 +1,50 @@
+.contact_form{
+	background: $grey;
+	padding: 50px 0;
+}
+.contact_fon{
+	background: #fff;
+	border-radius: 20px;
+	padding: 50px 0;
+}
+.contact_title{
+	text-align: center;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 50px;
+}
+.contact_time{
+	text-align: center;
+	list-style-type: none;
+}
+.form_contact{
+	background: none;
+	margin-top: -20px;
+}
+.contact_name{
+	width: 400px;
+}
+.contact_phone{
+	width: 400px
+}
+.contact_messege{
+	width: 800px
+}
+.contact_btn{
+	text-align: center;
+	margin: 0;
+	background: $malina;
+	color: #fff;
+	text-transform: uppercase;
+	margin-left: 200px;
+	display: block;
+	position: relative;
+	left: 250px;
+}
+.form_title{
+	text-transform: uppercase;
+	color: $malina;
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+}
